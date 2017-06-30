@@ -43,6 +43,7 @@ export default class AppContainer extends React.Component {
           {Platform.OS === 'android' &&
             <View style={styles.statusBarUnderlay} />}
           <RootNavigation />
+            <Text>Hello World!</Text>
         </View>
       );
     } else {
