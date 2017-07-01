@@ -8,7 +8,7 @@ export default class FixedLabelExample extends Component {
         <Content>
           <Form>
             <Item fixedLabel>
-              <Label>Username</Label>
+              <Label>adsafds</Label>
               <Input />
             </Item>
             <Item fixedLabel last>
